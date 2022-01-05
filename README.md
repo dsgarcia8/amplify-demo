@@ -22,3 +22,6 @@ En un terminal se deben seguir los siguientes pasaos
     
 3.  Subir los cambios en la nube
 
+    ```
+    amplify push
+    ```
